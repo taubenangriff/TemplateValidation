@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TemplateValidation": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\SteamLibrary\\steamapps\\common\\Anno 1800\\mods\\[Component] Construction Menu\\data\\config\\export\\main\\asset\\assets.xml\""
+    }
+  }
+}
